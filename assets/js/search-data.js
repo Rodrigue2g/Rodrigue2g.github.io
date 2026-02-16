@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "An overview of both my academics and personnal projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -42,6 +42,31 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "projects-pokerstar-nds",
+          title: 'PokerStar-nds',
+          description: "A Texas Hold&#39;em homebrew game for the Nintendo DS",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic/1_project/";
+            },},{id: "projects-power-electronics-dc-dc-converter",
+          title: 'Power Electronics DC-DC converter',
+          description: "An LLC Half-Bridge 45/24V 50W resonant converter",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic/2_project/";
+            },},{id: "projects-decoder-with-bit-flipping-post-processing-for-6g-wireless",
+          title: 'Decoder with Bit-Flipping Post-Processing for 6G wireless',
+          description: "Implementation and evaluation of a 6G wireless post-processing decoder",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic/3_project/";
+            },},{id: "projects-advanced-fuzzing-amp-vulnerability-research",
+          title: 'Advanced Fuzzing &amp;amp; Vulnerability Research',
+          description: "Hardening libpng through OSS-Fuzz harness engineering and crash triaging",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic/4_project/";
+            },},{id: "projects-stand-alone-controller-for-electroacoustic-resonators",
+          title: 'Stand-Alone Controller for Electroacoustic Resonators',
+          description: "Embedded impedance synthesis controller for active acoustic absorption",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/academic/5_project/";
             },},{
         id: 'social-cv',
         title: 'CV',
