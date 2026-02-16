@@ -67,6 +67,21 @@ ninja.data = [{
           description: "Embedded impedance synthesis controller for active acoustic absorption",
           section: "Projects",handler: () => {
               window.location.href = "/projects/academic/5_project/";
+            },},{id: "projects-iot-washing-machine-hardware-exploit-analysis",
+          title: 'IoT Washing Machine Hardware Exploit Analysis',
+          description: "A case study in bypassing centralized payment controller through logic-level and physical-layer vulnerabilities.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/personal/2_project/";
+            },},{id: "projects-dishwasher-hardware-repair",
+          title: 'Dishwasher Hardware Repair',
+          description: "Component-level diagnosis and repair of a catastrophic electrical failure.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/personal/3_project/";
+            },},{id: "projects-countryside-house-electrical-renovation",
+          title: 'Countryside House Electrical Renovation',
+          description: "FExtending power to a garden terrace through trenching, masonry work, and panel integration.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/personal/4_project/";
             },},{
         id: 'social-cv',
         title: 'CV',
