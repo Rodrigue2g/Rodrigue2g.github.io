@@ -15,11 +15,11 @@ Upgrading infrastructure in a countryside house often involves unique challenges
 
 ## Infrastructure & Site Preparation
 
-The primary challenge was the "hidden" part of the project: creating a path for the power through established landscaping. 
+The primary challenge was the "hidden" part of the project: creating a path for the power through established landscaping.
 
-* **Trenching:** Excavated a path through gravel and soil to a depth sufficient for cable protection.
-* **Masonry & Concrete:** To maintain the aesthetic of the terrace, I removed existing stone tiles and used a rotary hammer to channel through the concrete sub-base.
-* **Conduit Laying:** Installed flexible conduits to ensure the longevity of the cables against moisture and mechanical stress before re-laying the tiles.
+- **Trenching:** Excavated a path through gravel and soil to a depth sufficient for cable protection.
+- **Masonry & Concrete:** To maintain the aesthetic of the terrace, I removed existing stone tiles and used a rotary hammer to channel through the concrete sub-base.
+- **Conduit Laying:** Installed flexible conduits to ensure the longevity of the cables against moisture and mechanical stress before re-laying the tiles.
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -42,9 +42,9 @@ The progression of site works: from initial trenching to channeling through the 
 
 The project required interfacing with the house's legacy distribution system. This phase focused on safe cable management and reliable terminations.
 
-* **Junction & Control:** Installed a new surface-mounted switch and a Schneider Electric junction box.
-* **Wiring Standards:** Utilized WAGO lever connectors for secure, maintenance-free connections within the junction box, ensuring better reliability than traditional screw terminals in a high-vibration or temperature-variant environment.
-* **The "First" vs "Final" Wiring:** The project involved a transition from a functional "first-fix" to a polished "second-fix," ensuring all conduits were properly capped and dressed.
+- **Junction & Control:** Installed a new surface-mounted switch and a Schneider Electric junction box.
+- **Wiring Standards:** Utilized WAGO lever connectors for secure, maintenance-free connections within the junction box, ensuring better reliability than traditional screw terminals in a high-vibration or temperature-variant environment.
+- **The "First" vs "Final" Wiring:** The project involved a transition from a functional "first-fix" to a polished "second-fix," ensuring all conduits were properly capped and dressed.
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -62,7 +62,7 @@ Left: Initial circuit testing. Right: Final organized wiring using WAGO connecto
 
 ## Legacy System Analysis
 
-Connecting new hardware to a legacy distribution panel requires a careful assessment of existing capacity and safety. The current panel is a hybrid of different generations of circuit breakers (Merlin Gerin, Hager). 
+Connecting new hardware to a legacy distribution panel requires a careful assessment of existing capacity and safety. The current panel is a hybrid of different generations of circuit breakers (Merlin Gerin, Hager).
 
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -74,10 +74,12 @@ The existing house distribution panel, showing a mix of modern and legacy compon
 </div>
 
 ### Future Outlook: Panel Modernization
+
 A planned future project for this estate is the full modernization of this distribution panel. The objective is to replace the aging fuse-based remnants and mixed-brand breakers with a unified system, incorporating:
-* **Residual Current Devices (RCDs)** for enhanced protection.
-* **AFDD (Arc Fault Detection)** to safeguard the wooden structural elements of the house.
-* **Improved Cable Dressing** for better thermal management and ease of maintenance.
+
+- **Residual Current Devices (RCDs)** for enhanced protection.
+- **AFDD (Arc Fault Detection)** to safeguard the wooden structural elements of the house.
+- **Improved Cable Dressing** for better thermal management and ease of maintenance.
 
 ---
 

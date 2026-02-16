@@ -46,7 +46,7 @@
     }
   ],
   "education": [
-      {
+    {
       "institution": "École Polytechnique Fédérale de Lausanne",
       "location": "Lausanne, Switzerland",
       "url": "https://www.epfl.ch/",
@@ -55,11 +55,19 @@
       "startDate": "2024-09-01",
       "endDate": "2027-03-01",
       "score": "",
-      "courses": ["Energy Storage systems", "Semiconductor devices", "Wireless receivers", 
-                  "Analog VLSI design", "Applied data analysis", "Data visualisation", "Audio engineering",
-                  "Cryptography", "Software Security", "Information Security and Privacy", 
-                  "Data-intensive systems"
-                ]
+      "courses": [
+        "Energy Storage systems",
+        "Semiconductor devices",
+        "Wireless receivers",
+        "Analog VLSI design",
+        "Applied data analysis",
+        "Data visualisation",
+        "Audio engineering",
+        "Cryptography",
+        "Software Security",
+        "Information Security and Privacy",
+        "Data-intensive systems"
+      ]
     },
     {
       "institution": "École Polytechnique Fédérale de Lausanne",
@@ -70,7 +78,15 @@
       "startDate": "2020-09-01",
       "endDate": "2024-07-01",
       "score": "",
-      "courses": ["Power Electonics", "Electrical machines", "Energy conversion", "Signal Processing", "Electromagnetism", "Digital IC design", "Control systems"]
+      "courses": [
+        "Power Electonics",
+        "Electrical machines",
+        "Energy conversion",
+        "Signal Processing",
+        "Electromagnetism",
+        "Digital IC design",
+        "Control systems"
+      ]
     }
   ],
   "certificates": [],

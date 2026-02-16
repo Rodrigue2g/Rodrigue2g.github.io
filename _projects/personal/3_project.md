@@ -8,15 +8,16 @@ category: Personal
 ---
 
 ## Project Overview
-Dishwashers, along with many home appliances are often cheaper to change rather than to repair. This is a direct consequence of our over-consumption based culture and has a tremendous environnemental impact. This article hence aims to be an **incentive for sustainable engineering**, preivailing repairement over replacement. 
+
+Dishwashers, along with many home appliances are often cheaper to change rather than to repair. This is a direct consequence of our over-consumption based culture and has a tremendous environnemental impact. This article hence aims to be an **incentive for sustainable engineering**, preivailing repairement over replacement.
 
 When a second-hand Siemens dishwasher suffered a total power failure, that tripped the apartment's main circuit breaker, I performed a full teardown to locate the fault. This project highlights the practical application of electrical engineering to extend the lifecycle of home appliances.
 
 ---
 
 ## Failure Analysis
-After disassembling the chassis, I managed to find the culprit: the **Anti-parasite capacitor (EMI Filter)** had suffered a catastrophic dielectric breakdown. The internal short-circuit resulted in carbonized housing and a low-impedance path to ground. *This could have actually turned out way worse than a power break (potential fire hazard). For the main circuit breaker to trip, the component must have experienced a significant current leak.*
 
+After disassembling the chassis, I managed to find the culprit: the **Anti-parasite capacitor (EMI Filter)** had suffered a catastrophic dielectric breakdown. The internal short-circuit resulted in carbonized housing and a low-impedance path to ground. _This could have actually turned out way worse than a power break (potential fire hazard). For the main circuit breaker to trip, the component must have experienced a significant current leak._
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,14 +33,11 @@ The catastrophic failure of the original Anti-parasite capacitor.
 
 ---
 
-
 ## Technical Context: Induction Motors
 
-During the teardown, I looked further into the dishwasher's design, notably the circulation pump. It uses a **single-phase AC induction motor**, which requires a start capacitor to create the necessary phase shift in the auxiliary winding to initiate rotation. 
+During the teardown, I looked further into the dishwasher's design, notably the circulation pump. It uses a **single-phase AC induction motor**, which requires a start capacitor to create the necessary phase shift in the auxiliary winding to initiate rotation.
 
 This was a interesting real-world application of concepts from my [Lab in Energy Conversion](https://edu.epfl.ch/coursebook/en/lab-in-energy-conversion-EE-390-B) and [Electrical Machines](https://edu.epfl.ch/coursebook/en/electrical-machines-for-el-EE-361) courses at EPFL that I followed during my BSc.
-
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

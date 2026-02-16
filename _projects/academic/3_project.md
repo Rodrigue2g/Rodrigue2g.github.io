@@ -27,7 +27,6 @@ Results demonstrate improved error-correction performance with limited additiona
 - 🔗 The full implementation is available on [GitHub](https://github.com/Rodrigue2g/6G-decoder)
 - 📄 PDF Report: [View Report]({{ '/assets/pdf/Bachelor_Project.pdf' | relative_url }})
 
-
 ---
 
 ## Collaborators

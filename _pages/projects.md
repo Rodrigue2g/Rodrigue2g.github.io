@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: An overview of both my academics and personnal projects. 
+description: An overview of both my academics and personnal projects.
 nav: true
 nav_order: 3
 display_categories: [Academic, Personal]

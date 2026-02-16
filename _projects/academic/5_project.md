@@ -22,12 +22,12 @@ The continuous-time controller was discretized using the bilinear (Tustin) trans
 
 ## Technical Highlights
 
-- Derived and discretized a second-order impedance synthesis controller  
-- Implemented deterministic timer-driven real-time control (interrupt-based architecture)  
-- Integrated CMSIS-DSP to leverage hardware floating-point acceleration  
-- Designed full ADC/DAC signal chain with DC bias handling and output conditioning  
-- Validated transfer function using hardware-in-the-loop measurements  
-- Benchmarked embedded implementation against Speedgoat reference system  
+- Derived and discretized a second-order impedance synthesis controller
+- Implemented deterministic timer-driven real-time control (interrupt-based architecture)
+- Integrated CMSIS-DSP to leverage hardware floating-point acceleration
+- Designed full ADC/DAC signal chain with DC bias handling and output conditioning
+- Validated transfer function using hardware-in-the-loop measurements
+- Benchmarked embedded implementation against Speedgoat reference system
 
 The final MCU-based controller successfully reproduced the qualitative behavior of the reference system, demonstrating that a low-cost microcontroller architecture can replace high-end rapid-prototyping hardware for this application.
 
@@ -37,10 +37,10 @@ The final MCU-based controller successfully reproduced the qualitative behavior 
 
 To streamline experimentation, I developed a Python-based GUI that:
 
-- Computes continuous and discrete filter coefficients  
-- Generates firmware parameters automatically  
-- Builds and flashes the MCU firmware  
-- Provides transfer-function validation before deployment  
+- Computes continuous and discrete filter coefficients
+- Generates firmware parameters automatically
+- Builds and flashes the MCU firmware
+- Provides transfer-function validation before deployment
 
 The GUI is distributed through a GitHub Actions CI pipeline generating standalone installers.
 

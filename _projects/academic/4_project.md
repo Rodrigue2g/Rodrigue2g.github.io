@@ -17,9 +17,9 @@ We first evaluated the existing read-only fuzzing setup and demonstrated the cri
 
 To address this, we:
 
-- Designed and implemented a new write harness targeting png_write_* functions  
-- Enhanced the existing read harness to exercise previously ignored getter and transformation logic  
-- Expanded the seed corpus with diverse, structured PNG samples  
+- Designed and implemented a new write harness targeting png*write*\* functions
+- Enhanced the existing read harness to exercise previously ignored getter and transformation logic
+- Expanded the seed corpus with diverse, structured PNG samples
 
 These improvements significantly increased code coverage (notably +28% in write-related components) and enabled the discovery and analysis of multiple memory-safety vulnerabilities.
 
