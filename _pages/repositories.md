@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /repositories/
-title: Repositories
+title: repositories
 description: Here is a list of my main public repositories
-nav: true
+nav: false
 nav_order: 4
 ---
 
