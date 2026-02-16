@@ -53,6 +53,11 @@ ninja.data = [{
           description: "Embedded impedance synthesis controller for active acoustic absorption",
           section: "Projects",handler: () => {
               window.location.href = "/projects/academic/5_project/";
+            },},{id: "projects-diy-camera-timelapse-switch",
+          title: 'DIY Camera Timelapse Switch',
+          description: "My first engineering project a custom intervalometer for long-exposure photography.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/personal/1_project/";
             },},{id: "projects-iot-washing-machine-hardware-exploit-analysis",
           title: 'IoT Washing Machine Hardware Exploit Analysis',
           description: "A case study in bypassing centralized payment controller through logic-level and physical-layer vulnerabilities.",
