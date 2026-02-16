@@ -43,19 +43,8 @@
       "location": "Lausanne, Switzerland",
       "startDate": "2022-09-01",
       "endDate": "2023-06-01"
-    },
+    }
   ],
-  // "volunteer": [
-  //   {
-  //     "organization": "People's Climate March",
-  //     "location": "Zurich, Switzerland",
-  //     "position": "Lead Organizer",
-  //     "startDate": "2014-04-01",
-  //     "endDate": "2015-07-01",
-  //     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-  //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-  //   }
-  // ],
   "education": [
       {
       "institution": "École Polytechnique Fédérale de Lausanne",
@@ -81,8 +70,8 @@
       "startDate": "2020-09-01",
       "endDate": "2024-07-01",
       "score": "",
-      "courses": ["Power Electonics", "Electrical machines", "Energy conversion", "Signal Processing", "Electromagnetism", "Digital IC design", "Control systems"],
-    },
+      "courses": ["Power Electonics", "Electrical machines", "Energy conversion", "Signal Processing", "Electromagnetism", "Digital IC design", "Control systems"]
+    }
   ],
   "certificates": [],
   "skills": [],
@@ -98,39 +87,6 @@
       "icon": ""
     }
   ],
-  // "interests": [
-  //   {
-  //     "name": "Physics",
-  //     "icon": "fa-solid fa-tag",
-  //     "keywords": [
-  //       "Quantum Mechanics",
-  //       "Quantum Computing",
-  //       "Quantum Information",
-  //       "Quantum Cryptography",
-  //       "Quantum Communication",
-  //       "Quantum Teleportation"
-  //     ]
-  //   }
-  // ],
-  "references": [
-    // {
-    //   "name": "Professor John Doe",
-    //   "icon": "fa-solid fa-laptop",
-    //   "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    // },
-    // {
-    //   "name": "Professor Jane Smith",
-    //   "icon": "fa-solid fa-thumbtack",
-    //   "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    // }
-  ],
-  "projects": [
-    // {
-    //   "name": "Quantum Computing",
-    //   "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-    //   "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-    //   "startDate": "2018-01-01",
-    //   "endDate": "2018-01-01"
-    // }
-  ]
+  "references": [],
+  "projects": []
 }
