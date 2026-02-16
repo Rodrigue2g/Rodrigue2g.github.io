@@ -2,7 +2,7 @@
 layout: page
 title: Decoder with Bit-Flipping Post-Processing for 6G wireless
 description: Implementation and evaluation of a 6G wireless post-processing decoder
-img: assets/img/academic_projects/6g_decoder.png
+img: assets/img/academic_projects/6g.jpg
 importance: 3
 category: Academic
 related_publications: false

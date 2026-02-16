@@ -15,7 +15,7 @@ The project involved building a complete poker game loop from scratch, including
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pokerstar_nds.png" title="Dual Screen Layout" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/academic_projects/pokerstar_nds.png" title="Dual Screen Layout" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

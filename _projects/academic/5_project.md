@@ -2,7 +2,7 @@
 layout: page
 title: Stand-Alone Controller for Electroacoustic Resonators
 description: Embedded impedance synthesis controller for active acoustic absorption
-img: assets/img/academic_projects/EAR.png
+img: assets/img/academic_projects/LG_Electronics_logo.png
 importance: 1
 category: Academic
 related_publications: false
