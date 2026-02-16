@@ -9,26 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
           description: "An overview of both my academics and personnal projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "Repositories",
-          description: "Here is a list of my main public repositories",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -82,6 +68,11 @@ ninja.data = [{
           description: "FExtending power to a garden terrace through trenching, masonry work, and panel integration.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/personal/4_project/";
+            },},{id: "projects-connected-light-switch",
+          title: 'Connected Light Switch',
+          description: "A connected light switch implementation using an ESP32-C6, Embedded Swift and the Matter protocol.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/personal/5_project/";
             },},{
         id: 'social-cv',
         title: 'CV',
